@@ -80,7 +80,7 @@ LegacyLens 0.1.1 Free — ./sample-app
 | 13 ルールすべてで検査 | ✓ | ✓ |
 | 重要度別の件数・修正工数の目安 | ✓ | ✓ |
 | 指摘の詳細表示 | 20 件まで | 全件 |
-| HTML レポート（[サンプル](examples/sample-report.html)） | | ✓ |
+| HTML レポート（[サンプル画像](https://pinz.booth.pm/items/9031011)） | | ✓ |
 | JSON 出力 | | ✓ |
 | CI 連携（`--fail-on`） | | ✓ |
 | アップデート | | 無料 |
